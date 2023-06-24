@@ -1,16 +1,9 @@
 const Home = () =>{
     return (
-        <>
-          <div className="w-100 h-16 bg-slate-900">
-                <nav className="w-100 h-16 text-white flex">
-                  <ul className="flex items-center">
-                    <li className="cursor-pointer px-5 m-auto">Home</li>
-                    <li className="cursor-pointer px-5 m-auto">About</li>
-                    <li className="cursor-pointer px-5 m-auto">Contact</li>
-                  </ul>
-                </nav>
-            </div> 
-        </>
+      <>
+        <div className="w-100 h-96">
+        </div>
+      </>
     );
 }
 
